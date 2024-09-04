@@ -1,8 +1,8 @@
 # Password Cracker
-This is a simple bruteforce password cracker I made in Python. You input your password, and it generates a password, checks if it is correct, stores incorrect guesses, and repeats until it finds your password.
+This is a simple brute force password cracker I made in Python. You input your password, and it generates a password, checks if it is correct, stores incorrect guesses, and repeats until it finds your password.
 
 ## Important
-Bruteforce methods take a VERY long time. So if you are interesting in testing the code, only use 1 or two characters. Even 2 characters takes more than 1000 guesses. 
+Brute force methods take a VERY long time. So if you are interesting in testing the code, only use 1 or two characters. Even 2 characters takes more than 1000 guesses. 
 
 ## Code
 
